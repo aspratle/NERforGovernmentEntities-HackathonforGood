@@ -1,13 +1,13 @@
 # SCALES_LLM Notebook Overview
 
 ## Description
-This Jupyter notebook provides an in-depth exploration and implementation of machine learning models focusing on scaling large language models (LLMs). It is designed for both educational purposes and practical applications, suitable for learners and professionals interested in advanced AI techniques.
+This Jupyter Notebook provides an in-depth exploration and implementation of machine learning models focusing on identifying government entities in the SCALES dataset. It is designed for both educational purposes and practical applications and is suitable for learners and professionals interested in advanced AI techniques.
 
 ## Features
-- Detailed explanations of LLM concepts.
-- Step-by-step implementation of scaling strategies.
+- Detailed explanations of EDA.
+- Description of the target criteria.
+- Step-by-step implementation of modeling strategies.
 - Visualizations of model performance and metrics.
-- Interactive examples for hands-on learning.
 
 ## Requirements
 To run this notebook, you need to have the following installed:
@@ -31,10 +31,10 @@ To start the notebook, run the following command in your terminal:
 ```bash
 jupyter notebook hackathon_scales.ipynb
 ```
-Navigate through the notebook cells and execute them in sequence.
+Please navigate through the notebook cells and execute them in sequence.
 
 ## Contributing
-Contributions to enhance or expand this notebook are welcome. Please fork the repository, make your changes, and submit a pull request.
+Contributions to enhance or expand this notebook are welcome. Please fork the repository, make changes, and submit a pull request.
 
 ## License
 Specify the license under which this notebook is shared (e.g., MIT, GPL-2.0, etc.)
