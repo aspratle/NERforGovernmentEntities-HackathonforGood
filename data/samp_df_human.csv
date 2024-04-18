@@ -1,0 +1,220 @@
+,name,extra_info,nature_suit_subtype,ucids,name_tokenized,extra_info_tokenized,token_count,let_period_let_regex,dept_of_regex,cityof_regex,llc_regex,formal_name_regex,word_let_word_regex,dept_regex,two_tokens,three_tokens,extra_info_notindiv_regex,extra_info_formal_regex,word_llc_regex,inc_regex,target_v1,target_v2
+13504,brian d. abernathy,,prisoner_petitions,['ohnd;;1:17-cv-00674'],"['brian', 'd.', 'abernathy']",[],3,0,0,0,1,0,1,0,0,1,1.0,0.0,1,0,person,0
+72600,robert steven reitz,"also known as
+""bobby"" reitz",civil_rights,['txnd;;1:16-cv-00181'],"['robert', 'steven', 'reitz']","['also', 'known', 'as', ""''"", 'bobby', ""''"", 'reitz']",3,0,0,0,1,0,1,0,0,1,0.0,0.0,1,0,person,0
+42217,gerri young,,personal_injury,['paed;;2:04-cv-01377'],"['gerri', 'young']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+97650,scott banker,"cnc supervisor, individually",civil_rights,['nywd;;6:17-cv-06206'],"['scott', 'banker']","['cnc', 'supervisor', ',', 'individually']",2,0,0,0,1,0,1,0,1,0,0.0,0.0,1,0,person,0
+89990,shane pipkins,,contract,['mdd;;1:16-cv-03249'],"['shane', 'pipkins']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+13165,"dialysis newco, inc.","doing business as
+dsi renal",civil_rights,['gand;;1:15-cv-04288'],"['dialysis', 'newco', ',', 'inc', '.']","['doing', 'business', 'as', 'dsi', 'renal']",5,0,0,0,1,0,1,0,0,0,0.0,0.0,1,1,person,0
+56244,"georgia, state of, ex rel.",,personal_injury,"['mnd;;0:17-cv-03302', 'mnd;;0:17-cv-05089']","['georgia', ',', 'state', 'of', ',', 'ex', 'rel', '.']",[],8,0,0,0,1,0,1,0,0,0,1.0,0.0,1,0,no_condition_met,0
+72730,robert kim,,personal_injury,['paed;;2:11-cv-35812'],"['robert', 'kim']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+10979,healthsouth corporation,a delaware corporation,other_statutes,['ilnd;;1:06-cv-02542'],"['healthsouth', 'corporation']","['a', 'delaware', 'corporation']",2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+11794,jarell griffin,,crim,['ilnd;;1:09-cr-00382'],"['jarell', 'griffin']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+30261,stacy irene hotchkin,,crim,['mied;;2:16-cr-20248'],"['stacy', 'irene', 'hotchkin']",[],3,0,0,0,1,0,1,0,0,1,1.0,0.0,1,0,person,0
+27441,iesha lewis,,crim,['mied;;2:17-cr-20394'],"['iesha', 'lewis']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+82623,"oracle senior insurance group, inc.",,other_statutes,['tnmd;;3:17-cv-00152'],"['oracle', 'senior', 'insurance', 'group', ',', 'inc', '.']",[],7,0,0,0,1,0,1,0,0,0,1.0,0.0,1,1,person,0
+51042,austin haughwout,,other_statutes,['ctd;;3:16-cv-00358'],"['austin', 'haughwout']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+92194,richard oldacre,,personal_injury,['mied;;2:16-cv-13457'],"['richard', 'oldacre']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+91810,lukasz maciaszczyk,,property_rights,['ilnd;;1:17-cv-02722'],"['lukasz', 'maciaszczyk']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+13266,margaret cummings,,personal_injury,['paed;;2:03-cv-20329'],"['margaret', 'cummings']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+48317,grant harris,"deputy director of institutions, arkansas department of correction",habeas_corpus,['ared;;5:16-cv-00190'],"['grant', 'harris']","['deputy', 'director', 'of', 'institutions', ',', 'arkansas', 'department', 'of', 'correction']",2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+64119,stephen branch,,civil_rights,"['paed;;2:20-cv-02323', 'paed;;2:20-cv-02323']","['stephen', 'branch']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+31116,corey gunsby,,habeas_corpus,['flmd;;5:17-cv-00613'],"['corey', 'gunsby']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+12024,"gw supermarket of rowland heights, inc",,labor,['nyed;;1:17-cv-03181'],"['gw', 'supermarket', 'of', 'rowland', 'heights', ',', 'inc']",[],7,0,0,0,1,0,1,0,0,0,1.0,0.0,1,1,person,0
+6855,"international association of bridge, structural, ornamental and reinforcing iron workers' local union no. 404",,labor,['paed;;2:18-cv-03074'],"['international', 'association', 'of', 'bridge', ',', 'structural', ',', 'ornamental', 'and', 'reinforcing', 'iron', 'workers', ""'"", 'local', 'union', 'no', '.', '404']",[],18,0,0,0,1,0,1,0,0,0,1.0,0.0,1,0,no_condition_met,0
+25028,sharron l. jones,,personal_injury,['njd;;3:16-cv-04870'],"['sharron', 'l.', 'jones']",[],3,0,0,0,1,0,1,0,0,1,1.0,0.0,1,0,person,0
+35601,palos masonry corporation,an illinois corporation,labor,['ilnd;;1:12-cv-00035'],"['palos', 'masonry', 'corporation']","['an', 'illinois', 'corporation']",3,0,0,0,1,0,1,0,0,1,1.0,0.0,1,0,person,0
+24579,porter ryan,,property_rights,['ilnd;;1:17-cv-01978'],"['porter', 'ryan']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+37994,wilfredo ortiz,"also known as
+will",crim,['paed;;2:03-cr-00487'],"['wilfredo', 'ortiz']","['also', 'known', 'as', 'will']",2,0,0,0,1,0,1,0,1,0,0.0,0.0,1,0,person,0
+87519,the illinois police review authority,,civil_rights,['ilnd;;1:12-cv-05275'],"['the', 'illinois', 'police', 'review', 'authority']",[],5,0,0,0,1,1,1,0,0,0,1.0,0.0,1,0,government,1
+26750,jacqueline mahoney,,personal_injury,"['njd;;3:17-cv-02140', 'paed;;2:16-cv-05934']","['jacqueline', 'mahoney']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+97992,juan jose salmeron-calixto,,crim,['txsd;;1:16-cr-00218'],"['juan', 'jose', 'salmeron-calixto']",[],3,0,0,0,1,0,1,0,0,1,1.0,0.0,1,0,person,0
+60419,ms. maria sanchez,"c.o. ii, smith unit",habeas_corpus,['txnd;;5:17-cv-00018'],"['ms.', 'maria', 'sanchez']","['c.o', '.', 'ii', ',', 'smith', 'unit']",3,0,0,0,1,0,1,0,0,1,1.0,0.0,1,0,person,0
+29704,tom cutler,in his individual capacity,civil_rights,['innd;;3:17-cv-00834'],"['tom', 'cutler']","['in', 'his', 'individual', 'capacity']",2,0,0,0,1,0,1,0,1,0,0.0,1.0,1,0,government,1
+14883,concentra inc.,,civil_rights,['ilnd;;1:15-cv-01386'],"['concentra', 'inc', '.']",[],3,0,0,0,1,0,1,0,0,1,1.0,0.0,1,1,person,0
+28852,mary liska,,personal_injury,"['paed;;2:04-cv-21460', 'paed;;2:05-cv-22500']","['mary', 'liska']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+36807,debbi meddendorf,"grievance officer, menard cc",habeas_corpus,['ilnd;;1:05-cv-03517'],"['debbi', 'meddendorf']","['grievance', 'officer', ',', 'menard', 'cc']",2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+24339,fnu standly,"deputy, hillsborough county sheriff's office",civil_rights,['flmd;;8:16-cv-01945'],"['fnu', 'standly']","['deputy', ',', 'hillsborough', 'county', 'sheriff', ""'s"", 'office']",2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+32027,"invincea, inc.",,property_rights,['cand;;3:16-cv-06988'],"['invincea', ',', 'inc', '.']",[],4,0,0,0,1,0,1,0,0,0,1.0,0.0,1,1,person,0
+88100,brian danell cuffie,,crim,['txwd;;2:20-cr-01479'],"['brian', 'danell', 'cuffie']",[],3,0,0,0,1,0,1,0,0,1,1.0,0.0,1,0,person,0
+56286,eunice b. pettett,,personal_injury,['paed;;2:09-cv-76584'],"['eunice', 'b.', 'pettett']",[],3,0,0,0,1,0,1,0,0,1,1.0,0.0,1,0,person,0
+70163,jennifer s. nash,second amended complaint,habeas_corpus,['nvd;;3:16-cv-00064'],"['jennifer', 's.', 'nash']","['second', 'amended', 'complaint']",3,0,0,0,1,0,1,0,0,1,1.0,0.0,1,0,person,0
+912,rbeuv.com,,property_rights,['ilnd;;1:16-cv-09692'],['rbeuv.com'],[],1,0,0,0,1,0,1,0,0,0,1.0,0.0,1,0,no_condition_met,0
+41326,penn estates homeowners association,,personal_injury,['paed;;2:03-cv-05302'],"['penn', 'estates', 'homeowners', 'association']",[],4,0,0,0,1,0,1,0,0,0,1.0,0.0,1,0,no_condition_met,0
+25628,"the spearmint rhino companies worldwide, inc.",,labor,"['cacd;;5:17-cv-00854', 'cacd;;5:17-cv-00527']","['the', 'spearmint', 'rhino', 'companies', 'worldwide', ',', 'inc', '.']",[],8,0,0,0,1,0,1,0,0,0,1.0,0.0,1,1,person,0
+93347,"comprehensive pain solutions of new jersey, p.c.",,other_statutes,['njd;;3:17-cv-02199'],"['comprehensive', 'pain', 'solutions', 'of', 'new', 'jersey', ',', 'p.c', '.']",[],9,0,0,0,1,0,1,0,0,0,1.0,0.0,1,0,no_condition_met,0
+72246,"h.g. hill realty company, llc",,civil_rights,['tnmd;;3:16-cv-01520'],"['h.g', '.', 'hill', 'realty', 'company', ',', 'llc']",[],7,0,0,0,1,0,1,0,0,0,1.0,0.0,0,0,person,0
+42065,doe no. 244,,property_rights,['ilnd;;1:18-cv-03778'],"['doe', 'no', '.', '244']",[],4,0,0,0,1,0,1,0,0,0,1.0,0.0,1,0,no_condition_met,0
+30150,peter kessler,,other_statutes,['flsd;;1:17-cv-20665'],"['peter', 'kessler']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+15622,milka yadira rivera-rivera,,personal_property,['prd;;3:17-cv-01448'],"['milka', 'yadira', 'rivera-rivera']",[],3,0,0,0,1,0,1,0,0,1,1.0,0.0,1,0,person,0
+96264,andrew ruhl,,other_statutes,['ohnd;;5:17-cv-00709'],"['andrew', 'ruhl']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+27102,jaska young,,civil_rights,['nyed;;1:16-cv-03014'],"['jaska', 'young']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+29232,"louisiana crane & construction, llc",,personal_injury,['txwd;;2:16-cv-00009'],"['louisiana', 'crane', '&', 'construction', ',', 'llc']",[],6,0,0,0,1,0,1,0,0,0,1.0,0.0,0,0,person,0
+39385,angela shuttleworth,,crim,"['flmd;;8:16-cr-00297', 'flmd;;8:16-cr-00302', 'flmd;;8:16-cr-00301', 'flmd;;8:16-cr-00300']","['angela', 'shuttleworth']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+56137,cathy l ritchie,individually and on behalf of all others similarly situated,personal_property,['wied;;2:16-cv-00436'],"['cathy', 'l', 'ritchie']","['individually', 'and', 'on', 'behalf', 'of', 'all', 'others', 'similarly', 'situated']",3,0,0,0,1,0,0,0,0,1,0.0,0.0,1,0,person,0
+24739,aubrey ray henley,contractor,civil_rights,['kywd;;3:17-cv-00598'],"['aubrey', 'ray', 'henley']",['contractor'],3,0,0,0,1,0,1,0,0,1,1.0,0.0,1,0,person,0
+18601,william scott,"commander, lapd",civil_rights,['cacd;;2:17-cv-03606'],"['william', 'scott']","['commander', ',', 'lapd']",2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+13258,beverly fox,individually and as the representative of the estate of jesse fox,personal_injury,['laed;;2:16-cv-16696'],"['beverly', 'fox']","['individually', 'and', 'as', 'the', 'representative', 'of', 'the', 'estate', 'of', 'jesse', 'fox']",2,0,0,0,1,0,1,0,1,0,0.0,1.0,1,0,government,1
+12477,william j. spearman,,habeas_corpus,['paed;;2:06-cv-03198'],"['william', 'j.', 'spearman']",[],3,0,0,0,1,0,1,0,0,1,1.0,0.0,1,0,person,0
+20217,jimmy dewyane soard,also named as: jimmy soard,habeas_corpus,['azd;;2:17-cv-04438'],"['jimmy', 'dewyane', 'soard']","['also', 'named', 'as', ':', 'jimmy', 'soard']",3,0,0,0,1,0,1,0,0,1,1.0,0.0,1,0,person,0
+38795,odair canuto,deceased,personal_injury,['ilnd;;1:05-cv-03334'],"['odair', 'canuto']",['deceased'],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+15774,noe orduna-biviano,,crim,['nmd;;2:16-cr-01608'],"['noe', 'orduna-biviano']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+32503,john halbleid,,other_statutes,"['ilnd;;1:17-cv-04917', 'ilnd;;1:17-cv-04971']","['john', 'halbleid']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+25457,kent kultgen,in his official and individual capacity as snohomish school district superintendent,civil_rights,['wawd;;2:17-cv-00946'],"['kent', 'kultgen']","['in', 'his', 'official', 'and', 'individual', 'capacity', 'as', 'snohomish', 'school', 'district', 'superintendent']",2,0,0,0,1,0,1,0,1,0,0.0,1.0,1,0,government,1
+31222,h. bracket,,habeas_corpus,['insd;;1:16-cv-00710'],"['h.', 'bracket']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+89,robert galindo,,personal_injury,['nysd;;1:17-cv-08617'],"['robert', 'galindo']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+64991,"sandalwood operating, llc",,contract,['paed;;2:20-cv-05484'],"['sandalwood', 'operating', ',', 'llc']",[],4,0,0,0,1,0,1,0,0,0,1.0,0.0,0,0,person,0
+98248,michelle weiss,,personal_injury,['nysd;;1:17-cv-06123'],"['michelle', 'weiss']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+25837,superjerseyscheapshop.cc,,property_rights,['flsd;;0:16-cv-61684'],['superjerseyscheapshop.cc'],[],1,0,0,0,1,0,1,0,0,0,1.0,0.0,1,0,no_condition_met,0
+86374,1501 locust street assoc.,,personal_injury,"['paed;;2:19-cv-04843', 'paed;;2:19-cv-04843', 'paed;;2:19-cv-04843', 'paed;;2:19-cv-04843', 'paed;;2:19-cv-04843', 'paed;;2:19-cv-04843']","['1501', 'locust', 'street', 'assoc', '.']",[],5,0,0,0,1,0,1,0,0,0,1.0,0.0,1,0,no_condition_met,0
+91926,elyse holmes,,social_security,['paed;;2:19-cv-00784'],"['elyse', 'holmes']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+41048,doris l. olsen,,personal_injury,['paed;;2:11-cv-60355'],"['doris', 'l.', 'olsen']",[],3,0,0,0,1,0,1,0,0,1,1.0,0.0,1,0,person,0
+37645,chris gates,,civil_rights,"['ilnd;;3:18-cv-50197', 'ilnd;;3:18-cv-50197']","['chris', 'gates']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+5803,lionel antoine,,personal_injury,['paed;;2:12-cv-00092'],"['lionel', 'antoine']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+48519,path constructors,a dissolved illinois corporation,labor,['ilnd;;1:15-cv-07886'],"['path', 'constructors']","['a', 'dissolved', 'illinois', 'corporation']",2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+78405,"artland, inc.",,personal_injury,['paed;;2:10-cv-07449'],"['artland', ',', 'inc', '.']",[],4,0,0,0,1,0,1,0,0,0,1.0,0.0,1,1,person,0
+40164,office of the cook county assessor,,civil_rights,['ilnd;;1:02-cv-00790'],"['office', 'of', 'the', 'cook', 'county', 'assessor']",[],6,0,0,0,1,0,1,0,0,0,1.0,0.0,1,0,no_condition_met,0
+36970,bobby w gossett,"(severed, 16-6790)",personal_injury,['laed;;2:16-cv-04054'],"['bobby', 'w', 'gossett']","['(', 'severed', ',', '16-6790', ')']",3,0,0,0,1,0,0,0,0,1,1.0,0.0,1,0,person,0
+99527,alshaday abate,,labor,['gand;;1:16-cv-00533'],"['alshaday', 'abate']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+30893,usda forest service,"an independent agency of the united states of america, for the use and benefit of reinke gypsum suppy co., inc. an illinois corporation
+agent of
+usa",contract,['ilnd;;1:03-cv-01700'],"['usda', 'forest', 'service']","['an', 'independent', 'agency', 'of', 'the', 'united', 'states', 'of', 'america', ',', 'for', 'the', 'use', 'and', 'benefit', 'of', 'reinke', 'gypsum', 'suppy', 'co.', ',', 'inc.', 'an', 'illinois', 'corporation', 'agent', 'of', 'usa']",3,0,0,0,1,0,1,0,0,1,0.0,0.0,1,0,person,0
+26882,london stromberg,deputy executive director at the utah state prison,habeas_corpus,['utd;;2:16-cv-01085'],"['london', 'stromberg']","['deputy', 'executive', 'director', 'at', 'the', 'utah', 'state', 'prison']",2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+97713,erica lee ahalt,"individually and as parents and natural guardians of joel willard carter, a minor",personal_injury,['paed;;2:14-cv-04800'],"['erica', 'lee', 'ahalt']","['individually', 'and', 'as', 'parents', 'and', 'natural', 'guardians', 'of', 'joel', 'willard', 'carter', ',', 'a', 'minor']",3,0,0,0,1,0,1,0,0,1,0.0,1.0,1,0,government,1
+57012,uriel lattes,,contract,['nysd;;1:16-cv-03136'],"['uriel', 'lattes']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+78175,universal molding company inc,"doing business as
+allocast technologies",other_statutes,['cacd;;2:16-cv-06976'],"['universal', 'molding', 'company', 'inc']","['doing', 'business', 'as', 'allocast', 'technologies']",4,0,0,0,1,0,1,0,0,0,0.0,0.0,1,1,person,0
+72141,"jerry lynn gilmore, jr.",,habeas_corpus,['mssd;;2:16-cv-00099'],"['jerry', 'lynn', 'gilmore', ',', 'jr', '.']",[],6,0,0,0,1,0,1,0,0,0,1.0,0.0,1,0,no_condition_met,0
+32060,luis vasquez,,habeas_corpus,"['wied;;2:17-cv-00766', 'ilnd;;3:07-cv-50209', 'wied;;2:16-cv-01322', 'ilcd;;3:16-cv-03223']","['luis', 'vasquez']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+87110,yoona ha,,civil_rights,['ilnd;;1:14-cv-00895'],"['yoona', 'ha']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+28518,charles newcomb,,prisoner_petitions,['ilnd;;1:16-cv-08714'],"['charles', 'newcomb']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+64759,juan carlos llanas-gonzalez,,crim,['txsd;;7:20-cr-01359'],"['juan', 'carlos', 'llanas-gonzalez']",[],3,0,0,0,1,0,1,0,0,1,1.0,0.0,1,0,person,0
+34302,rafael ayala-macias,,crim,['casd;;3:16-cr-03044'],"['rafael', 'ayala-macias']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+49325,jimmie d. lampkin,,personal_injury,['paed;;2:10-cv-65381'],"['jimmie', 'd.', 'lampkin']",[],3,0,0,0,1,0,1,0,0,1,1.0,0.0,1,0,person,0
+46126,mr james e chellis,master-in-equity dorchester county south carolina,personal_property,['scd;;2:17-cv-02946'],"['mr', 'james', 'e', 'chellis']","['master-in-equity', 'dorchester', 'county', 'south', 'carolina']",4,0,0,0,1,0,1,0,0,0,1.0,0.0,1,0,no_condition_met,0
+23177,jonathan gostovich,,personal_injury,['mied;;2:17-cv-13658'],"['jonathan', 'gostovich']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+83249,"midwest brickpaving, inc.",an illinois corporation,labor,"['ilnd;;1:11-cv-04304', 'ilnd;;1:16-cv-09371']","['midwest', 'brickpaving', ',', 'inc', '.']","['an', 'illinois', 'corporation']",5,0,0,0,1,0,1,0,0,0,1.0,0.0,1,1,person,0
+46166,swisswatchesfordiscount.top,,property_rights,['ilnd;;1:17-cv-04427'],['swisswatchesfordiscount.top'],[],1,0,0,0,1,0,1,0,0,0,1.0,0.0,1,0,no_condition_met,0
+85650,"trimedx, inc.",,civil_rights,['mied;;2:16-cv-10540'],"['trimedx', ',', 'inc', '.']",[],4,0,0,0,1,0,1,0,0,0,1.0,0.0,1,1,person,0
+69981,"801 callowhill, inc.",,civil_rights,['paed;;2:17-cv-04739'],"['801', 'callowhill', ',', 'inc', '.']",[],5,0,0,0,1,0,1,0,0,0,1.0,0.0,1,1,person,0
+43167,ricardo lopez-garcia,,crim,['casd;;3:17-cr-04330'],"['ricardo', 'lopez-garcia']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+19377,mvjedw,,property_rights,['ilnd;;1:18-cv-00737'],['mvjedw'],[],1,0,0,0,1,0,1,0,0,0,1.0,0.0,1,0,no_condition_met,0
+80661,lestore,,property_rights,['ilnd;;1:18-cv-07283'],['lestore'],[],1,0,0,0,1,0,1,0,0,0,1.0,0.0,1,0,no_condition_met,0
+68797,charles daugherty,,personal_injury,['paed;;2:08-cv-80280'],"['charles', 'daugherty']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+27148,mildred clinkscales,,personal_injury,['laed;;2:17-cv-06873'],"['mildred', 'clinkscales']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+4800,faye b. entrekin,,personal_injury,['paed;;2:10-cv-80563'],"['faye', 'b.', 'entrekin']",[],3,0,0,0,1,0,1,0,0,1,1.0,0.0,1,0,person,0
+7180,the bank of new york mellon,"successor in interest to jpmorgan chase bank , as trustee for the pooling and servicing agreement dated as of november 1, 2003 asset backed funding corporation asset-backed certificates, series 2003- wmc1",real_property,['ilnd;;1:11-cv-01369'],"['the', 'bank', 'of', 'new', 'york', 'mellon']","['successor', 'in', 'interest', 'to', 'jpmorgan', 'chase', 'bank', ',', 'as', 'trustee', 'for', 'the', 'pooling', 'and', 'servicing', 'agreement', 'dated', 'as', 'of', 'november', '1', ',', '2003', 'asset', 'backed', 'funding', 'corporation', 'asset-backed', 'certificates', ',', 'series', '2003-', 'wmc1']",6,0,0,0,1,0,1,0,0,0,1.0,1.0,1,0,government,1
+93862,jean jules ngbwa elle,"also known as
+jean jules elle",crim,['vaed;;1:16-cr-00272'],"['jean', 'jules', 'ngbwa', 'elle']","['also', 'known', 'as', 'jean', 'jules', 'elle']",4,0,0,0,1,0,1,0,0,0,0.0,0.0,1,0,person,0
+20398,dustin santos,,crim,['ned;;4:16-cr-03110'],"['dustin', 'santos']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+93798,james h hampton,,personal_injury,['txnd;;3:17-cv-01833'],"['james', 'h', 'hampton']",[],3,0,0,0,1,0,0,0,0,1,1.0,0.0,1,0,person,0
+87343,connie brandes,,personal_injury,['paed;;2:04-cv-26752'],"['connie', 'brandes']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+89591,desiree grigg,,property_rights,['nvd;;2:16-cv-02662'],"['desiree', 'grigg']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+69075,collette withers,,civil_rights,['cacd;;2:16-cv-05793'],"['collette', 'withers']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+59625,"beefam, llc",a california limited liability company,contract,['cacd;;2:17-cv-03556'],"['beefam', ',', 'llc']","['a', 'california', 'limited', 'liability', 'company']",3,0,0,0,1,0,1,0,0,1,1.0,0.0,0,0,person,0
+70451,ms. mcgregory,"sergeant, p.i.c.c.",habeas_corpus,['paed;;2:12-cv-06401'],"['ms.', 'mcgregory']","['sergeant', ',', 'p.i.c.c', '.']",2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+33458,linda kiesel,,personal_injury,"['paed;;2:04-cv-20091', 'paed;;2:05-cv-23615']","['linda', 'kiesel']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+57682,charles b small,,personal_injury,"['paed;;2:11-cv-55373', 'paed;;2:11-cv-55372']","['charles', 'b', 'small']",[],3,0,0,0,1,0,0,0,0,1,1.0,0.0,1,0,person,0
+18913,marino magdaleno ramirez,,crim,['scd;;3:17-cr-00680'],"['marino', 'magdaleno', 'ramirez']",[],3,0,0,0,1,0,1,0,0,1,1.0,0.0,1,0,person,0
+98866,"stetty b84 consulting, inc.",,personal_property,"['paed;;2:10-cv-02262', 'paed;;2:10-cv-02262', 'paed;;2:10-cv-02262']","['stetty', 'b84', 'consulting', ',', 'inc', '.']",[],6,0,0,0,1,0,1,0,0,0,1.0,0.0,1,1,person,0
+1245,david lesley otting,,social_security,['gand;;4:16-cv-00147'],"['david', 'lesley', 'otting']",[],3,0,0,0,1,0,1,0,0,1,1.0,0.0,1,0,person,0
+77384,david c. peebles,administrator of the estate of deceased william lozos,personal_injury,['paed;;2:11-cv-36258'],"['david', 'c.', 'peebles']","['administrator', 'of', 'the', 'estate', 'of', 'deceased', 'william', 'lozos']",3,0,0,0,1,0,1,0,0,1,1.0,0.0,1,0,person,0
+94160,stephen martin,,contract,"['tnmd;;3:17-cv-01134', 'txwd;;5:16-cv-01036', 'txwd;;5:16-cv-01036']","['stephen', 'martin']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+20124,margaret lynn harper,,social_security,['flmd;;6:17-cv-00373'],"['margaret', 'lynn', 'harper']",[],3,0,0,0,1,0,1,0,0,1,1.0,0.0,1,0,person,0
+10929,masakazu ushijima,,property_rights,"['txwd;;1:16-cv-00585', 'txwd;;1:16-cv-00585']","['masakazu', 'ushijima']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+65871,"san marco food store 2, inc.","doing business as
+san marco food store 2",civil_rights,['flmd;;3:17-cv-00219'],"['san', 'marco', 'food', 'store', '2', ',', 'inc', '.']","['doing', 'business', 'as', 'san', 'marco', 'food', 'store', '2']",8,0,0,0,1,0,1,0,0,0,0.0,0.0,1,1,person,0
+80679,jeffrey jerry torres,"also known as
+jeffrey torres
+also known as
+jeffrey j. torres
+also known as
+j.j. torres
+also known as
+jeff torres
+also known as
+jeffery jerry jr. torres",crim,['txwd;;5:16-cr-00285'],"['jeffrey', 'jerry', 'torres']","['also', 'known', 'as', 'jeffrey', 'torres', 'also', 'known', 'as', 'jeffrey', 'j.', 'torres', 'also', 'known', 'as', 'j.j.', 'torres', 'also', 'known', 'as', 'jeff', 'torres', 'also', 'known', 'as', 'jeffery', 'jerry', 'jr.', 'torres']",3,0,0,0,1,0,1,0,0,1,0.0,0.0,1,0,person,0
+77462,william h sills,,personal_injury,['paed;;2:11-cv-34343'],"['william', 'h', 'sills']",[],3,0,0,0,1,0,0,0,0,1,1.0,0.0,1,0,person,0
+64589,george e. guidry,,personal_injury,['paed;;2:07-cv-71095'],"['george', 'e.', 'guidry']",[],3,0,0,0,1,0,1,0,0,1,1.0,0.0,1,0,person,0
+25623,heidi fisher,individually and as the personal representative of the estate of steven fisher,labor,['txsd;;6:18-cv-00035'],"['heidi', 'fisher']","['individually', 'and', 'as', 'the', 'personal', 'representative', 'of', 'the', 'estate', 'of', 'steven', 'fisher']",2,0,0,0,1,0,1,0,1,0,0.0,1.0,1,0,government,1
+55690,andrew gale,,other_statutes,"['ilnd;;1:05-cv-07024', 'ilnd;;1:02-cv-03663', 'ilnd;;1:04-cv-01299']","['andrew', 'gale']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+96833,garland whitby,,labor,['txed;;1:16-cv-00376'],"['garland', 'whitby']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+12417,designerforucg.com,,property_rights,['ilnd;;1:19-cv-00852'],['designerforucg.com'],[],1,0,0,0,1,0,1,0,0,0,1.0,0.0,1,0,no_condition_met,0
+83795,zachary derck,,labor,['scd;;2:17-cv-00227'],"['zachary', 'derck']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+6388,howard c miller,,personal_injury,['paed;;2:09-cv-93038'],"['howard', 'c', 'miller']",[],3,0,0,0,1,0,0,0,0,1,1.0,0.0,1,0,person,0
+1097,christopher szagola,,property_rights,"['nysd;;1:16-cv-06110', 'nysd;;1:17-cv-05832']","['christopher', 'szagola']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+24904,ernest finley,chief,civil_rights,['almd;;2:16-cv-00698'],"['ernest', 'finley']",['chief'],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+71075,"setton pistachio company of terra bella, inc.",a california corporation,contract,['ilnd;;1:10-cv-02571'],"['setton', 'pistachio', 'company', 'of', 'terra', 'bella', ',', 'inc', '.']","['a', 'california', 'corporation']",9,0,0,0,1,0,1,0,0,0,1.0,0.0,1,1,person,0
+55521,"professional flooring installations, inc.",,contract,['paed;;2:06-cv-01150'],"['professional', 'flooring', 'installations', ',', 'inc', '.']",[],6,0,0,0,1,0,1,0,0,0,1.0,0.0,1,1,person,0
+14670,welch foods inc.,,personal_injury,['cand;;3:17-cv-00219'],"['welch', 'foods', 'inc', '.']",[],4,0,0,0,1,0,1,0,0,0,1.0,0.0,1,1,person,0
+25421,city of berkeley police department,"berkeley, ca",civil_rights,['cand;;4:17-cv-03235'],"['city', 'of', 'berkeley', 'police', 'department']","['berkeley', ',', 'ca']",5,0,0,1,1,1,1,0,0,0,1.0,0.0,1,0,government,1
+49551,incomm,,civil_rights,['gand;;1:17-cv-04405'],['incomm'],[],1,0,0,0,1,0,1,0,0,0,1.0,0.0,1,0,no_condition_met,0
+33877,kim breeden,,other_statutes,"['vaed;;3:16-cv-00558', 'vaed;;3:16-cv-00032']","['kim', 'breeden']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+46138,abayomi o ajaiyeoba,,civil_rights,['nyed;;1:16-cv-04809'],"['abayomi', 'o', 'ajaiyeoba']",[],3,0,0,0,1,0,0,0,0,1,1.0,0.0,1,0,person,0
+32098,ouachita river correctional unit,arkanss department of correction,habeas_corpus,['ared;;1:16-cv-00027'],"['ouachita', 'river', 'correctional', 'unit']","['arkanss', 'department', 'of', 'correction']",4,0,0,0,1,1,1,0,0,0,1.0,0.0,1,0,government,1
+50289,"henry rice, jr",,civil_rights,['ilnd;;1:04-cv-07400'],"['henry', 'rice', ',', 'jr']",[],4,0,0,0,1,0,1,0,0,0,1.0,0.0,1,0,no_condition_met,0
+81724,creighton e miller,administrator of the estate of: roy d. smith other deceased roy d smith,personal_injury,['paed;;2:11-cv-55187'],"['creighton', 'e', 'miller']","['administrator', 'of', 'the', 'estate', 'of', ':', 'roy', 'd.', 'smith', 'other', 'deceased', 'roy', 'd', 'smith']",3,0,0,0,1,0,0,0,0,1,1.0,0.0,1,0,person,0
+30098,mountain park health center,,civil_rights,['azd;;2:16-cv-03758'],"['mountain', 'park', 'health', 'center']",[],4,0,0,0,1,0,1,0,0,0,1.0,0.0,1,0,no_condition_met,0
+37310,lt. john whipple,,habeas_corpus,['ilnd;;3:12-cv-50001'],"['lt.', 'john', 'whipple']",[],3,0,0,0,1,0,1,0,0,1,1.0,0.0,1,0,person,0
+94089,judge r balanoff,,civil_rights,['ilnd;;1:10-cv-06761'],"['judge', 'r', 'balanoff']",[],3,0,0,0,1,1,0,0,0,1,1.0,0.0,1,0,government,1
+23695,scharleen james,,personal_injury,['paed;;2:04-cv-25828'],"['scharleen', 'james']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+43022,ruth sipple,,civil_rights,['cacd;;8:17-cv-01776'],"['ruth', 'sipple']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+25416,james ryan,,habeas_corpus,"['ilnd;;1:06-cv-05279', 'ilnd;;1:06-cv-03693', 'ilnd;;3:16-cv-50230', 'ilnd;;1:06-cv-05169', 'ilnd;;1:06-cv-07019', 'ilnd;;1:03-cv-00521', 'ilnd;;1:06-cv-03454']","['james', 'ryan']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+63601,kennth downing,captain,habeas_corpus,['scd;;0:16-cv-03483'],"['kennth', 'downing']",['captain'],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+34029,fashion avenue inc,a california corporation,property_rights,['cacd;;2:16-cv-07790'],"['fashion', 'avenue', 'inc']","['a', 'california', 'corporation']",3,0,0,0,1,0,1,0,0,1,1.0,0.0,1,1,person,0
+72647,jose javier herrera morales,,prisoner_petitions,['txnd;;3:18-cv-01591'],"['jose', 'javier', 'herrera', 'morales']",[],4,0,0,0,1,0,1,0,0,0,1.0,0.0,1,0,no_condition_met,0
+38122,tiffany brown,,other_statutes,['ilnd;;1:11-cv-02989'],"['tiffany', 'brown']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+46950,nouledo yaovi,,immigration,['pamd;;3:17-cv-02218'],"['nouledo', 'yaovi']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,government,1
+45343,tiffani brown,,social_security,['ilnd;;1:11-cv-04670'],"['tiffani', 'brown']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+48868,melissa crosby thigpen,,personal_injury,['paed;;2:09-cv-20001'],"['melissa', 'crosby', 'thigpen']",[],3,0,0,0,1,0,1,0,0,1,1.0,0.0,1,0,person,0
+96883,salvadore ponce,,labor,['ilnd;;1:06-cv-04289'],"['salvadore', 'ponce']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+18030,steven victor brull,,bankruptcy,"['cacd;;8:16-cv-01963', 'cacd;;8:16-cv-01963']","['steven', 'victor', 'brull']",[],3,0,0,0,1,0,1,0,0,1,1.0,0.0,1,0,person,0
+32444,zegarzewski,deputy warden,habeas_corpus,"['ctd;;3:16-cv-01575', 'ctd;;3:16-cv-01724']",['zegarzewski'],"['deputy', 'warden']",1,0,0,0,1,0,1,0,0,0,1.0,0.0,1,0,no_condition_met,0
+76508,jeffrey dehaan,,crim,['miwd;;1:16-cr-00186'],"['jeffrey', 'dehaan']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+61444,gary r. nelson,,personal_injury,"['paed;;2:10-cv-72026', 'paed;;2:10-cv-52688']","['gary', 'r.', 'nelson']",[],3,0,0,0,1,0,1,0,0,1,1.0,0.0,1,0,person,0
+53297,derrick martin,,civil_rights,['ilnd;;1:21-cv-03824'],"['derrick', 'martin']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+1842,robert sutherland,,personal_property,['txwd;;1:17-cv-01204'],"['robert', 'sutherland']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+39182,paciano castreson-jacinto,,crim,['casd;;3:17-cr-03276'],"['paciano', 'castreson-jacinto']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+67014,"whitacre trucking, inc.",,contract,['paed;;2:03-cv-04199'],"['whitacre', 'trucking', ',', 'inc', '.']",[],5,0,0,0,1,0,1,0,0,0,1.0,0.0,1,1,person,0
+16724,tom alagna,,habeas_corpus,['ilnd;;1:19-cv-01829'],"['tom', 'alagna']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+85050,albert harriott,,habeas_corpus,['nynd;;9:16-cv-00276'],"['albert', 'harriott']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+8147,"autonomiq, inc.",a delaware corporation,contract,['ilnd;;1:20-cv-03822'],"['autonomiq', ',', 'inc', '.']","['a', 'delaware', 'corporation']",4,0,0,0,1,0,1,0,0,0,1.0,0.0,1,1,person,0
+60490,spiros,dr.,habeas_corpus,['paed;;2:06-cv-01897'],['spiros'],"['dr', '.']",1,0,0,0,1,0,1,0,0,0,1.0,0.0,1,0,no_condition_met,0
+214,kenneth d. melvin,,civil_rights,['paed;;2:02-cv-02070'],"['kenneth', 'd.', 'melvin']",[],3,0,0,0,1,0,1,0,0,1,1.0,0.0,1,0,person,0
+38955,xiao zheng,,property_rights,"['ilnd;;1:12-cv-09066', 'ilnd;;1:16-cv-06063']","['xiao', 'zheng']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+86089,rcsus inc.,,contract,['ohnd;;5:16-cv-02820'],"['rcsus', 'inc', '.']",[],3,0,0,0,1,0,1,0,0,1,1.0,0.0,1,1,person,0
+57700,"lionsbrood enterprises, llc",a colorado limited liability company,contract,"['cod;;1:17-cv-01507', 'cod;;1:17-cv-01507']","['lionsbrood', 'enterprises', ',', 'llc']","['a', 'colorado', 'limited', 'liability', 'company']",4,0,0,0,1,0,1,0,0,0,1.0,0.0,0,0,person,0
+95422,darious lamont royal,,prisoner_petitions,['mied;;2:16-cv-10374'],"['darious', 'lamont', 'royal']",[],3,0,0,0,1,0,1,0,0,1,1.0,0.0,1,0,person,0
+59520,douglas g kronlund,,crim,['wawd;;3:17-cr-05071'],"['douglas', 'g', 'kronlund']",[],3,0,0,0,1,0,0,0,0,1,1.0,0.0,1,0,person,0
+82941,roberto leal,,other_statutes,['flsd;;1:16-cv-22347'],"['roberto', 'leal']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+98214,perfection painting company,,labor,['cod;;1:16-cv-02216'],"['perfection', 'painting', 'company']",[],3,0,0,0,1,0,1,0,0,1,1.0,0.0,1,0,person,0
+17790,j garrett,,habeas_corpus,['ilnd;;1:04-cv-00829'],"['j', 'garrett']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+92586,deborah d robinson,,real_property,['ilnd;;1:03-cv-03209'],"['deborah', 'd', 'robinson']",[],3,0,0,0,1,0,0,0,0,1,1.0,0.0,1,0,person,0
+12373,"wabansi, inc.",an illinois corporation,other_statutes,['ilnd;;1:09-cv-03498'],"['wabansi', ',', 'inc', '.']","['an', 'illinois', 'corporation']",4,0,0,0,1,0,1,0,0,0,1.0,0.0,1,1,person,0
+87444,det susan james,,property_rights,['ilnd;;1:16-cv-03416'],"['det', 'susan', 'james']",[],3,0,0,0,1,0,1,0,0,1,1.0,0.0,1,0,person,0
+34341,edward padilla,,crim,['caed;;1:17-cr-00048'],"['edward', 'padilla']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+26598,steve frey,,personal_injury,['azd;;2:17-cv-04144'],"['steve', 'frey']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+40312,elizabeth paterakis,,personal_injury,['flmd;;8:16-cv-02730'],"['elizabeth', 'paterakis']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+34374,"audacy pennsylvania, llc",,civil_rights,['paed;;2:21-cv-04671'],"['audacy', 'pennsylvania', ',', 'llc']",[],4,0,0,0,1,0,1,0,0,0,1.0,0.0,0,0,person,0
+30215,gerald di pasquale,"officer, star 14224",civil_rights,['ilnd;;1:09-cv-03545'],"['gerald', 'di', 'pasquale']","['officer', ',', 'star', '14224']",3,0,0,0,1,0,1,0,0,1,1.0,0.0,1,0,person,0
+47023,philadelphia marriott,,personal_injury,['paed;;2:17-cv-01595'],"['philadelphia', 'marriott']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+66725,"young's cargo, inc.",a california corporation,contract,['caed;;1:17-cv-01016'],"['young', ""'s"", 'cargo', ',', 'inc', '.']","['a', 'california', 'corporation']",6,0,0,0,1,0,1,0,0,0,1.0,0.0,1,1,person,0
+60086,cesar tello vargas,,labor,['nyed;;1:17-cv-07385'],"['cesar', 'tello', 'vargas']",[],3,0,0,0,1,0,1,0,0,1,1.0,0.0,1,0,person,0
+79377,steve parma,,personal_property,['txed;;2:16-cv-00126'],"['steve', 'parma']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+14093,allen mann,,personal_injury,['paed;;2:05-cv-20173'],"['allen', 'mann']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+11341,louise gazin,,other_statutes,['ilnd;;1:02-cv-04103'],"['louise', 'gazin']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+28656,spex group holdings ltd,,contract,['txnd;;3:18-cv-00731'],"['spex', 'group', 'holdings', 'ltd']",[],4,0,0,0,1,0,1,0,0,0,1.0,0.0,1,0,no_condition_met,0
+35078,"mside, inc.",,contract,['ilnd;;1:02-cv-05187'],"['mside', ',', 'inc', '.']",[],4,0,0,0,1,0,1,0,0,0,1.0,0.0,1,1,person,0
+65755,kiersten sullivan,,real_property,['gand;;1:15-cv-03898'],"['kiersten', 'sullivan']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+1869,c.a.d.e.s.,children & adult disability educational services,habeas_corpus,['paed;;2:20-cv-00612'],"['c.a.d.e.s', '.']","['children', '&', 'adult', 'disability', 'educational', 'services']",2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+95247,mark s. kroeger,,other_statutes,['ned;;8:16-cv-00355'],"['mark', 's.', 'kroeger']",[],3,0,0,0,1,0,1,0,0,1,1.0,0.0,1,0,person,0
+2604,cwpill,,contract,['ilnd;;1:21-cv-00288'],['cwpill'],[],1,0,0,0,1,0,1,0,0,0,1.0,0.0,1,0,no_condition_met,0
+50381,kinsey rivers,,habeas_corpus,['arwd;;5:17-cv-05233'],"['kinsey', 'rivers']",[],2,0,0,0,1,0,1,0,1,0,1.0,0.0,1,0,person,0
+33221,authenticluxuryonline.com,"also known as
+originalhandbagonline.com",property_rights,['flsd;;0:17-cv-62403'],['authenticluxuryonline.com'],"['also', 'known', 'as', 'originalhandbagonline.com']",1,0,0,0,1,0,1,0,0,0,0.0,0.0,1,0,person,0
+29308,"teleport communications atlanta, inc.",,other_statutes,['ksd;;2:16-cv-02158'],"['teleport', 'communications', 'atlanta', ',', 'inc', '.']",[],6,0,0,0,1,0,1,0,0,0,1.0,0.0,1,1,person,0
+63230,"strawberry's parlor, inc.","also known as
+strawberry's deli & ice cream",civil_rights,['flsd;;2:16-cv-14532'],"['strawberry', ""'s"", 'parlor', ',', 'inc', '.']","['also', 'known', 'as', 'strawberry', ""'s"", 'deli', '&', 'ice', 'cream']",6,0,0,0,1,0,1,0,0,0,0.0,0.0,1,1,person,0
+88891,mary arica j boyston,,crim,['azd;;4:16-cr-00149'],"['mary', 'arica', 'j', 'boyston']",[],4,0,0,0,1,0,1,0,0,0,1.0,0.0,1,0,person,0
