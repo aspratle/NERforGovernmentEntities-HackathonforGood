@@ -18,8 +18,8 @@ To run this notebook, you need to have the following installed:
 ## Installation
 1. Clone the repository or download the notebook:
    ```bash
-   git clone [repository-url]
-   cd [repository-name]
+   git clone aspratle
+   cd hackathon_scales
    ```
 2. Install the necessary Python packages:
    ```bash
