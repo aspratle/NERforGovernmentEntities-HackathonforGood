@@ -1,4 +1,5 @@
-# SCALES_LLM Notebook Overview
+#  Notebook Overview: Using ML to Identifying Government Entities in the SCALES Dataset
+
 
 ## Description
 This Jupyter Notebook provides an in-depth exploration and implementation of machine learning models focusing on identifying government entities in the SCALES dataset. It is designed for both educational purposes and practical applications and is suitable for learners and professionals interested in advanced AI techniques.
