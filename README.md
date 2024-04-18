@@ -7,7 +7,7 @@ This Jupyter Notebook provides an in-depth exploration and implementation of mac
 ## Features
 - Detailed explanations of EDA.
 - Description of the target criteria.
-- Step-by-step implementation of modeling strategies.
+- Implementation of modeling strategies.
 - Visualizations of model performance and metrics.
 
 ## Requirements
