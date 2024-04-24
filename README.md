@@ -47,8 +47,20 @@ Code:
 
 Results:
 
+Limitations:
+
 ## Tuned Zero Shot GLiNER LLM Model using custom training data 
 1.  Use Faker to generate fake English, Spanish, and English Indian names
-2.  
+2.  Create a text file of 'formal titles' (found in data folder) and of person suffixes (l.l.c, .inc, etc.)
+3.  Append these files together to generate names with formal titles labeled 'government' and names with person suffixes labeled 'person'
+4.  Add this custom data to the LLM pipe
+
+Results: 
+
+Limitations: 
+
+## Learnings and Recommendations 
+
+## Future Steps 
 
 ## Contact
