@@ -34,9 +34,9 @@ The following was done by the project sponsor-SCALES
 ## Rule Based Methodology 
 1. Create Rules that matches patterns within the name and/or extra_info columns to classify 'government' versus 'person'
 2. Some examples of rules are as follows:
-   - Column(s) contain a 'formal government title' (i.e. Police, District Attornet, Lieutenant, etc.)
-   - Column(s) contain 'city of' or 'department of' (rationale these are mostly state counties involved in the suit which is government)
-   - Column(s) DO NOT contain 'llc' (these are mostly 'persons')
+   - Column(s) contain a **'formal government title'** (i.e. Police, District Attorney, Lieutenant, etc.)
+   - Column(s) contain **'city of'** or 'department of' (rationale these are mostly state counties involved in the suit which is government)
+   - Column(s) **DO NOT contain 'llc'** (these are mostly 'persons')
 3. Build a target based on the rules (binary target of label 'government' or 'person')
 4. From that target create a predictive rule-based model, Decision Tree, that uses binary features to predict that target
 5. Limitations:  The target was created based on finite rules that may not encompass ALL PATTERNS
@@ -54,12 +54,11 @@ The top features included:  If the 'name' or 'extra_info' columns contained a fo
 2.  Add custom labels to identify: 'government' and 'person'
 3.  Add the zero shot labels to a sample of 2k observations (due to comptational resources needed a smaller data set)
 
-Code: 
-![Zero Shot Code](images/zeroshotmodel_code.png)
+**Code:** ![Zero Shot Code](images/zeroshotmodel_code.png)
 
-Results:  Matched the rule-based target created at 59%
+**Results:**  Matched the rule-based target created at 59%
 
-Limitations:  Can generate more than one label for each observation, not good at picking up "formal titles" in front of names and assigning it as "government" 
+**Limitations:**  Can generate more than one label for each observation, not good at picking up "formal titles" in front of names and assigning it as "government" 
 
 ## Tuned spaCy LLM Model using custom training data 
 1.  Use Faker to generate fake English, Spanish, and English Indian names
