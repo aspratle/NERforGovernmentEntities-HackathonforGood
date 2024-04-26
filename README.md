@@ -16,10 +16,10 @@ The following was done by the project sponsor-SCALES
 - A CSV file was created with approximately 3.5 million rows from the above files
 - Due to computational resources and time constraints the hacakathon team random sampled 100k rows from the CSV file which is found in the 'data' folder of this repo
 - The following columns are in the above CSV file
-     **Name**:  A party name that appears in one or more cases
-     **Extra Info**:  Extra Info about the party that may/may not can be used (roughly 50% missing)
-     **Nature-of-suit Subtype**:  Type of case in which the party belongs to (i.e. immigration, criminal, habeaus corpus, etc.)
-     **UIDS**:  Case IDs for the underlying case files
+     - **Name**:  A party name that appears in one or more cases
+     - **Extra Info**:  Extra Info about the party that may/may not can be used (roughly 50% missing)
+     - **Nature-of-suit Subtype**:  Type of case in which the party belongs to (i.e. immigration, criminal, habeaus corpus, etc.)
+     - **UIDS**:  Case IDs for the underlying case files
   
   As mentioned above the **name** and **extra_info** columns were predominately used for this NER classifier
 
@@ -37,6 +37,7 @@ The following was done by the project sponsor-SCALES
 5. Limitations:  The target was created based on finite rules that may not encompass ALL PATTERNS
 
 ## Model Performance on Rule Based Methodolgy
+The rule based target we created captured a large amount of person entities and based on our hard formal rules we are confident it identified clear government entities from the **name** and **extra_info** columns. However, it had a significant number of rows that did not match any entity, showcasing the limitation of this method. Further rules would need to be investigated and added in, in order to capture more of the missed values. We were not able to capture all patterns due to time contraints
 
 ## Zero Shot GLiNER LLM Model Methodology and Code: 
 1.  Import a foundational spacy NER model that can recognize 18 entities.  Model Documentation[Here](https://spacy.io/models/en#en_core_web_sm)
