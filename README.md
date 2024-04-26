@@ -24,7 +24,11 @@ The following was done by the project sponsor-SCALES
   As mentioned above the **name** and **extra_info** columns were predominately used for this NER classifier
 
 ## Exploratory Data Analaysis (EDA) 
-1. Entire Data File (100k observations): 
+1. Entire Data File (100k observations) Top 4 Suit Subtypes that comprised 60% of all the data:
+![Subtype Plot](images/subtype_countplot.png)
+
+2. Word Cloud of the "formal titles" that existed in the data and thus would be classified as government:
+![Dataset Word Cloud Formal Titles](images/df_wordcloud.png)
 
 ## Rule Based Methodology 
 1. Create Rules that matches patterns within the name and/or extra_info columns to classify 'government' versus 'person'
@@ -50,23 +54,34 @@ The top features included:  If the 'name' or 'extra_info' columns contained a fo
 3.  Add the zero shot labels to a sample of 2k observations (due to comptational resources needed a smaller data set)
 
 Code: 
+![Zero Shot Code](images/zeroshotmodel_code.png)
 
-Results:
+Results:  Matched the rule-based target created at 59%
 
-Limitations:
+Limitations:  Can generate more than one label for each observation, not good at picking up "formal titles" in front of names and assigning it as "government" 
 
-## Tuned Zero Shot GLiNER LLM Model using custom training data 
+## Tuned spaCy LLM Model using custom training data 
 1.  Use Faker to generate fake English, Spanish, and English Indian names
 2.  Create a text file of 'formal titles' (found in data folder) and of person suffixes (l.l.c, .inc, etc.)
 3.  Append these files together to generate names with formal titles labeled 'government' and names with person suffixes labeled 'person'
 4.  Add this custom data to the LLM pipe
 
-Results: 
-
-Limitations: 
+Results: Variable with the worse assigning 'government' to all observations.  This still needs to be investigated but we have good 'starter code' in the notebook/  
 
 ## Learnings and Recommendations 
+- Creating finite rules to determine a target then running a Machine Learning model against that target performs pretty well 
+
+- The limitations are the difficulty in being able to define almost all the rules needed to create a robust target and having computational resources to train a foundational model with custom training data  
+
+- Even though the zero-shot LLM model was ~59% accurate, it can still be used to identify names that were matched to both labels for further investigation and to help create more rules 
+
+- Custom training data could potentially be used to train the model but computational (cloud) resources would be needed since it has difficulty performing on just a local machine 
 
 ## Future Steps 
+1.  Create a cloud environment that can train the custom spaCy model
+2.  Determine more rules that can separate 'government' from 'person' entities 
 
 ## Contact
+- Angelica "Jelly" Spratley, MSc (Project and Technical lead):  [LinkedIn](https://www.linkedin.com/in/angelicaspratley/)
+- Daniel Burdeno, MSc (Code Quality lead and Technical Assistant):  [LinkedIn](https://www.linkedin.com/in/daniel-burdeno/)
+- Dr. Uohna Thiessen (Strategy and Creative lead):  [LinkedIn](https://www.linkedin.com/in/druohna-datascientist/) 
