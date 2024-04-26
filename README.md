@@ -37,7 +37,12 @@ The following was done by the project sponsor-SCALES
 5. Limitations:  The target was created based on finite rules that may not encompass ALL PATTERNS
 
 ## Model Performance on Rule Based Methodolgy
-The rule based target we created captured a large amount of person entities and based on our hard formal rules we are confident it identified clear government entities from the **name** and **extra_info** columns. However, it had a significant number of rows that did not match any entity, showcasing the limitation of this method. Further rules would need to be investigated and added in, in order to capture more of the missed values. We were not able to capture all patterns due to time contraints
+The rule based target we created captured a large amount of person entities and based on our hard formal rules we are confident it identified clear government entities from the **name** and **extra_info** columns. However, it had a significant number of rows that did not match any entity, showcasing the limitation of this method. Further rules would need to be investigated and added in, in order to capture more of the missed values. We were not able to capture all patterns due to time contraints.  
+
+The decision tree model had an accuracy of 99% and Recall of 91% on unseen data.  False Negatives occured roughly 0.6% of the time -- the model stated it was a person (0) when in fact it was a government entity (1)
+
+The top features included:  If the 'name' or 'extra_info' columns contained a formal government title and the 'name' field containing "city of":
+![Decision Tree Model](images/decision_tree_shortened.png)
 
 ## Zero Shot GLiNER LLM Model Methodology and Code: 
 1.  Import a foundational spacy NER model that can recognize 18 entities.  Model Documentation[Here](https://spacy.io/models/en#en_core_web_sm)
